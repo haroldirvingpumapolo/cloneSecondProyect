@@ -1,0 +1,140 @@
+footer{
+  background: rgb(253, 246, 242);
+  padding-bottom: 100px;
+  padding-top: 30px;
+}
+h3{
+  color: black;
+}
+body{
+  margin: 0;
+  border: 0;
+}
+span{
+  color: rgb(105, 105, 105)
+}
+.purple{
+  color: rgb(102, 37, 187);
+}
+h1{
+  font-size: 3em;
+  font-weight: 100;
+  margin: -1px;
+  letter-spacing: 1px;
+
+}
+.laptop{
+  width: 500px;
+
+}
+*{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.2 em;
+}
+.main-header-container-flex{
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content:space-around;
+  padding-bottom: 50px;
+  
+}
+.main-header-rigth{
+  display: flex;
+  align-items: center;
+  justify-content:end;
+}
+.main-header-conteiner{
+  margin-right: 50px;
+}
+.main-header-conteiner{
+  font-size: 0.9em;
+}
+.main-section-flex{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.users{
+  width: 300px;
+}
+main-section-text-with{
+  flex-direction: column;
+}
+.buttonOnly{
+  background-color: rgb(128, 62, 214);
+  border: 0;
+  border-radius: 4px;
+  width: 200px;
+  height: 50px;
+  color: white;
+  letter-spacing:0.75px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.main-section-p-text{
+  color:  rgb(105, 105, 105);
+}
+.free{
+  color:  rgb(185, 181, 181)
+}
+.redes-sociales-img{
+  width: 300px;
+}
+.cell-section-img{
+  width: 300px;
+}
+.main-section-flex{
+  display: flex;
+}
+.main-section-flex {
+  display: flex;
+}
+.main-section-counter{
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
+.main-section-counter-text-left{
+  padding-right: 150px;
+}
+.main-section-counter-text-right{
+  padding-left: 150px;
+}
+.main-section-counter-text-p2{
+  color: rgb(128, 62, 214);
+}
+.main-section-counter-text-p{
+  color:rgb(105, 105, 105) ;
+}
+.main-footer-container-flex{
+  display: flex;
+  justify-content:space-around ;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+.footer-right{
+  display: flex;
+
+  
+}
+.footer-right-only{
+  padding-left: 70px;
+}
+
+.footer-left-p{
+  color:rgb(105, 105, 105) ;
+}
+.footer-right-p{
+  color:rgb(105, 105, 105) ;
+}
+
+.firts-block{
+  padding:100px ;
+  padding-top: 40px;
+  padding-bottom: 100px;
+  background:linear-gradient(145deg,rgb(190, 152, 240) ,rgb(253, 246, 242),rgb(253, 246, 242),rgb(253, 246, 242),rgb(253, 246, 242)) ;
+}
+.flex-two-sections{
+  padding: 100px;
+}
